@@ -1,6 +1,7 @@
 # cdk-golang-lambda-deployment
 
 This repo is an example on how to deploy a serverless API on AWS Lambda using aws CDK.
+
 Associated article https://faun.pub/golang-build-and-deploy-an-aws-lambda-using-cdk-b484fe99304b
 
 ## Lambda
